@@ -1,0 +1,55 @@
+﻿<Window x:Class="AnimatedSorting5.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AnimatedSorting5"
+        mc:Ignorable="d"
+        Title="AnimatedSorting" Height="460" Width="850" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+
+    <StackPanel>
+        <Grid Height="33" Margin="10">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="164" />
+                <ColumnDefinition Width="116" />
+                <ColumnDefinition Width="100" />
+                <ColumnDefinition Width="103" />
+                <ColumnDefinition />
+                <ColumnDefinition />
+
+            </Grid.ColumnDefinitions>
+
+            <TextBlock Text="Integer Arrangement Order :" Grid.Column="0" VerticalAlignment="Center" Margin="10,8,0,9" Height="16" />
+            <ComboBox Grid.Column="1" Margin="5" x:Name="ArrangementSelection">
+                <ComboBoxItem Tag="Random" Content="Random" IsSelected="True" />
+                <ComboBoxItem Tag="Ascending" Content="Ascending" />
+                <ComboBoxItem Tag="Descending" Content="Descending" />
+            </ComboBox>
+            <Button x:Name="GenerateButton" Click="GenerateButton_Click" Content="Generate" Grid.Column="2" Margin="5" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" />
+
+            <TextBlock Text="Sorting Routine :" Grid.Column="3" VerticalAlignment="Center" Height="16" Margin="10 5 5 5" />
+            <ComboBox Grid.Column="4" Margin="5" x:Name="SortingRoutineSelection">
+                <ComboBoxItem Tag="Selection Sort" Content="Selection Sort" />
+                <ComboBoxItem Tag="Insertion Sort" Content="Insertion Sort" />
+                <ComboBoxItem Tag="Bubble Sort" Content="Bubble Sort" />
+            </ComboBox>
+
+            <Button x:Name="ApplySortButton" IsEnabled="False" Content="Apply" Width="100"  Margin="5" Grid.Column="5" Click="ApplySortButton_Click"/>
+
+        </Grid>
+
+        <Canvas x:Name="AnimationCanvas" Background="Aqua" Height="380" >
+            <TextBlock x:Name="Number0" Text="-" Height="50" Canvas.Left="50" Canvas.Top="150" Width="50" TextAlignment="Center" Padding="10" FontSize="20" Foreground="White"  Background="Blue" />
+            <TextBlock x:Name="Number1" Text="G" Height="50" Canvas.Left="125" Canvas.Top="150" Width="50" TextAlignment="Center" Padding="10" FontSize="20" Foreground="White" Background="Blue" />
+            <TextBlock x:Name="Number2" Text="E" Height="50" Canvas.Left="200" Canvas.Top="150" Width="50" TextAlignment="Center" Padding="10" FontSize="20" Foreground="White" Background="Blue" />
+            <TextBlock x:Name="Number3" Text="N" Height="50" Canvas.Left="275" Canvas.Top="150" Width="50" TextAlignment="Center" Padding="10" FontSize="20" Foreground="White" Background="Blue" />
+            <TextBlock x:Name="Number4" Text="E" Height="50" Canvas.Left="350" Canvas.Top="150" Width="50" TextAlignment="Center" Padding="10" FontSize="20" Foreground="White" Background="Blue" />
+            <TextBlock x:Name="Number5" Text="R" Height="50" Canvas.Left="425" Canvas.Top="150" Width="50" TextAlignment="Center" Padding="10" FontSize="20" Foreground="White" Background="Blue" />
+            <TextBlock x:Name="Number6" Text="A" Height="50" Canvas.Left="500" Canvas.Top="150" Width="50" TextAlignment="Center" Padding="10" FontSize="20" Foreground="White" Background="Blue" />
+            <TextBlock x:Name="Number7" Text="T" Height="50" Canvas.Left="575" Canvas.Top="150" Width="50" TextAlignment="Center" Padding="10" FontSize="20" Foreground="White" Background="Blue" />
+            <TextBlock x:Name="Number8" Text="E" Height="50" Canvas.Left="650" Canvas.Top="150" Width="50" TextAlignment="Center" Padding="10" FontSize="20" Foreground="White" Background="Blue" />
+            <TextBlock x:Name="Number9" Text="-" Height="50" Canvas.Left="725" Canvas.Top="150" Width="50" TextAlignment="Center" Padding="10" FontSize="20" Foreground="White" Background="Blue" />
+        </Canvas>
+        
+    </StackPanel>
+</Window>

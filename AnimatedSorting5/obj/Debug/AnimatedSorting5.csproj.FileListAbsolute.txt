@@ -1,0 +1,38 @@
+C:\Users\Supra\source\repos\AnimatedSorting5\AnimatedSorting5\bin\Debug\AnimatedSorting5.exe.config
+C:\Users\Supra\source\repos\AnimatedSorting5\AnimatedSorting5\bin\Debug\AnimatedSorting5.exe
+C:\Users\Supra\source\repos\AnimatedSorting5\AnimatedSorting5\bin\Debug\AnimatedSorting5.pdb
+C:\Users\Supra\source\repos\AnimatedSorting5\AnimatedSorting5\obj\Debug\AnimatedSorting5.csprojAssemblyReference.cache
+C:\Users\Supra\source\repos\AnimatedSorting5\AnimatedSorting5\obj\Debug\MainWindow.g.cs
+C:\Users\Supra\source\repos\AnimatedSorting5\AnimatedSorting5\obj\Debug\App.g.cs
+C:\Users\Supra\source\repos\AnimatedSorting5\AnimatedSorting5\obj\Debug\AnimatedSorting5_MarkupCompile.cache
+C:\Users\Supra\source\repos\AnimatedSorting5\AnimatedSorting5\obj\Debug\AnimatedSorting5_MarkupCompile.lref
+C:\Users\Supra\source\repos\AnimatedSorting5\AnimatedSorting5\obj\Debug\MainWindow.baml
+C:\Users\Supra\source\repos\AnimatedSorting5\AnimatedSorting5\obj\Debug\AnimatedSorting5.g.resources
+C:\Users\Supra\source\repos\AnimatedSorting5\AnimatedSorting5\obj\Debug\AnimatedSorting5.Properties.Resources.resources
+C:\Users\Supra\source\repos\AnimatedSorting5\AnimatedSorting5\obj\Debug\AnimatedSorting5.csproj.GenerateResource.cache
+C:\Users\Supra\source\repos\AnimatedSorting5\AnimatedSorting5\obj\Debug\AnimatedSorting5.csproj.CoreCompileInputs.cache
+C:\Users\Supra\source\repos\AnimatedSorting5\AnimatedSorting5\obj\Debug\AnimatedSorting5.exe
+C:\Users\Supra\source\repos\AnimatedSorting5\AnimatedSorting5\obj\Debug\AnimatedSorting5.pdb
+C:\Users\Steven\OneDrive - Eastern Washington University\Summer '19\.NET Programming\371 Stuff from Laptop\richmondscscd371AnimatedSortingRevised\AnimatedSorting5\obj\Debug\AnimatedSorting5.csprojAssemblyReference.cache
+C:\Users\Steven\OneDrive - Eastern Washington University\Summer '19\.NET Programming\371 Stuff from Laptop\richmondscscd371AnimatedSortingRevised\AnimatedSorting5\obj\Debug\MainWindow.g.cs
+C:\Users\Steven\OneDrive - Eastern Washington University\Summer '19\.NET Programming\371 Stuff from Laptop\richmondscscd371AnimatedSortingRevised\AnimatedSorting5\obj\Debug\App.g.cs
+C:\Users\Steven\OneDrive - Eastern Washington University\Summer '19\.NET Programming\371 Stuff from Laptop\richmondscscd371AnimatedSortingRevised\AnimatedSorting5\obj\Debug\AnimatedSorting5_MarkupCompile.cache
+C:\Users\Steven\OneDrive - Eastern Washington University\Summer '19\.NET Programming\371 Stuff from Laptop\richmondscscd371AnimatedSortingRevised\AnimatedSorting5\obj\Debug\AnimatedSorting5_MarkupCompile.lref
+C:\Users\Steven\OneDrive - Eastern Washington University\Summer '19\.NET Programming\371 Stuff from Laptop\richmondscscd371AnimatedSortingRevised\AnimatedSorting5\obj\Debug\AnimatedSorting5.exe
+C:\Users\Steven\OneDrive - Eastern Washington University\Summer '19\.NET Programming\371 Stuff from Laptop\richmondscscd371AnimatedSortingRevised\AnimatedSorting5\obj\Debug\AnimatedSorting5.pdb
+C:\Users\Steven\OneDrive - Eastern Washington University\Summer '19\.NET Programming\371 Stuff from Laptop\richmondscscd371AnimatedSortingRevised\AnimatedSorting5\obj\Debug\MainWindow.baml
+C:\Users\Steven\OneDrive - Eastern Washington University\Summer '19\.NET Programming\371 Stuff from Laptop\richmondscscd371AnimatedSortingRevised\AnimatedSorting5\obj\Debug\AnimatedSorting5.g.resources
+C:\Users\Steven\Desktop\richmondscscd371AnimatedSortingRevised\AnimatedSorting5\bin\Debug\AnimatedSorting5.exe.config
+C:\Users\Steven\Desktop\richmondscscd371AnimatedSortingRevised\AnimatedSorting5\bin\Debug\AnimatedSorting5.exe
+C:\Users\Steven\Desktop\richmondscscd371AnimatedSortingRevised\AnimatedSorting5\bin\Debug\AnimatedSorting5.pdb
+C:\Users\Steven\Desktop\richmondscscd371AnimatedSortingRevised\AnimatedSorting5\obj\Debug\AnimatedSorting5.csprojAssemblyReference.cache
+C:\Users\Steven\Desktop\richmondscscd371AnimatedSortingRevised\AnimatedSorting5\obj\Debug\MainWindow.g.cs
+C:\Users\Steven\Desktop\richmondscscd371AnimatedSortingRevised\AnimatedSorting5\obj\Debug\App.g.cs
+C:\Users\Steven\Desktop\richmondscscd371AnimatedSortingRevised\AnimatedSorting5\obj\Debug\AnimatedSorting5_MarkupCompile.cache
+C:\Users\Steven\Desktop\richmondscscd371AnimatedSortingRevised\AnimatedSorting5\obj\Debug\AnimatedSorting5_MarkupCompile.lref
+C:\Users\Steven\Desktop\richmondscscd371AnimatedSortingRevised\AnimatedSorting5\obj\Debug\MainWindow.baml
+C:\Users\Steven\Desktop\richmondscscd371AnimatedSortingRevised\AnimatedSorting5\obj\Debug\AnimatedSorting5.g.resources
+C:\Users\Steven\Desktop\richmondscscd371AnimatedSortingRevised\AnimatedSorting5\obj\Debug\AnimatedSorting5.Properties.Resources.resources
+C:\Users\Steven\Desktop\richmondscscd371AnimatedSortingRevised\AnimatedSorting5\obj\Debug\AnimatedSorting5.csproj.GenerateResource.cache
+C:\Users\Steven\Desktop\richmondscscd371AnimatedSortingRevised\AnimatedSorting5\obj\Debug\AnimatedSorting5.exe
+C:\Users\Steven\Desktop\richmondscscd371AnimatedSortingRevised\AnimatedSorting5\obj\Debug\AnimatedSorting5.pdb
